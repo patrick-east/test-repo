@@ -1,4 +1,7 @@
 #!/bin/bash
 
-echo $@
+echo "args:  $@"
+
+echo "env:"
+export
 
